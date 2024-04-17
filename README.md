@@ -1,18 +1,12 @@
 # mfe-host
 
-This template should help get you started developing with Vue 3 in Vite.
+# Aplicação Vue Simples para Deploy no AWS S3
 
-## Recommended IDE Setup
+Este repositório contém uma aplicação Vue.js simples que tem como objetivo ser implantada no Amazon S3 da AWS usando GitHub Actions.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Sobre
 
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Esta é uma aplicação Vue.js básica utilizando WEBPACK extensívle para ser utilizada como um microfrontend, criada para fins de demonstração. Ele consiste em um frontend simples que pode ser implantado em um ambiente de hospedagem estática, como o Amazon S3, para disponibilização na web.
 
 ## Project Setup
 
@@ -20,13 +14,12 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
+### Dev mode
 ```sh
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
+### Build
 
 ```sh
 npm run build
