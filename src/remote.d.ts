@@ -1,2 +1,1 @@
-declare module "mfePost/Button"
-declare module "mfeTodo/Todo"
+declare module "remoteMfe/TodoPlus"

@@ -1,1 +1,0 @@
-declare module "mfePost/Button";
