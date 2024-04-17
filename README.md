@@ -6,7 +6,7 @@ Este repositório contém uma aplicação Vue.js simples que tem como objetivo s
 
 ## Sobre
 
-Esta é uma aplicação Vue.js básica utilizando WEBPACK extensívle para ser utilizada como um microfrontend, criada para fins de demonstração. Ele consiste em um frontend simples que pode ser implantado em um ambiente de hospedagem estática, como o Amazon S3, para disponibilização na web.
+Esta é uma aplicação Vue.js básica utilizando WEBPACK extensível para ser utilizada como um microfrontend, criada para fins de demonstração. Ele consiste em um frontend simples que pode ser implantado em um ambiente de hospedagem estática, como o Amazon S3, para disponibilização na web.
 
 ## Project Setup
 
